@@ -1,4 +1,4 @@
-# Exploratory Data Analysis w/ SQL: Job Marker Analysis
+# Exploratory Data Analysis w/ SQL: Job Market Analysis
 
 ![Project 1 Overview](../images/1_1_Project1_EDA.png)
 
